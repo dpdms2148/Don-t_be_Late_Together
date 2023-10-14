@@ -234,8 +234,8 @@
 <div style="display : flex; flex-direction : row; gap:10px;">
   <img src="./upload/DBLT_05_gallery.jpg" width=150px/>
   <img src="./upload/DBLT_05_gallery_noimage.jpg" width=150px/>
-  <img src="./upload/DBLT_05_gallery_image.jpg" width=150px/>
-  <img src="./upload/DBLT_05_gallery.gif" width=150px/>
+  <!-- <img src="./upload/DBLT_05_gallery_image.jpg" width=150px/>
+  <img src="./upload/DBLT_05_gallery.gif" width=150px/> -->
 </div>
 
 ▲ 월별로 약속을 사진, 후기와 함께 상세 정보를 확인할 수 있는 페이지
